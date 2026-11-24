@@ -1,0 +1,20 @@
+code,mu_direct_species,mu_direct_relation,mu_direct_note
+RD,Cervus elaphus yarkandensis,subspecies,Bergeron et al. 2023 via Lewin & Eyre-Walker 2026 STable1
+SV,Mus musculus,same superfamily (Muroidea),Lewin & Eyre-Walker 2026 STable1 Mus_musculus u_mean 5.08e-9 [4.73e-9, 5.56e-9] (mean of the STable2 direct estimates, incl. Bergeron et al. 2023 5.34e-9); switched 2026-10-29 from 5.35e-9 [3.46e-9, 8.26e-9], whose CI had no recorded source, for consistency with every other population
+NH,Panthera pardus,same suborder (Feliformia),no direct estimate for Hyaenidae or Herpestidae
+BTR,Cyanistes caeruleus,own species,Bergeron et al. 2023
+BTP,Cyanistes caeruleus,own species,Bergeron et al. 2023
+BTM,Cyanistes caeruleus,own species,Bergeron et al. 2023
+CF,Ficedula albicollis,own species,Smeds et al. 2016
+CSM,Macaca mulatta,own species,mean of direct estimates in Lewin & Eyre-Walker 2026
+SFW,Taeniopygia guttata,same order (Passeriformes),Malurus is a basal oscine; no closer direct estimate exists
+SSP,Taeniopygia guttata,same superfamily (Passeroidea),closest relative with a direct estimate
+HT,Ficedula albicollis,same order (Passeriformes),Notiomystis is a basal oscine; no closer direct estimate exists
+HK,Ficedula albicollis,same order (Passeriformes),Notiomystis is a basal oscine; no closer direct estimate exists
+SSH,Cervus nippon,same suborder (Ruminantia),no direct estimate for Ovis; author choice of close relative
+BHS,Cervus nippon,same suborder (Ruminantia),no direct estimate for Ovis; author choice of close relative
+AB,Papio anubis,congener,Wu et al. 2020
+GTU,Cyanistes caeruleus,same family (Paridae),no direct estimate for Parus major
+GTN,Cyanistes caeruleus,same family (Paridae),no direct estimate for Parus major
+KS,Cavia aperea,same order (Rodentia),no direct estimate for Sciuridae
+MK,Neofelis nebulosa,same suborder (Feliformia),no direct estimate for Herpestidae

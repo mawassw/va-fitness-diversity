@@ -1,0 +1,24 @@
+# Posterior draws of V_A from Bonnet et al. (2022): not redistributed (see README.md)
+alldistzip
+data/processed/va_posterior.csv
+
+# Lewin & Eyre-Walker (2026) Supporting Information workbook: download it (see README.md)
+data/lewin_eyre_walker_2026_data.xlsx
+
+# Generated LaTeX (tab_reduction.R writes Table 3 here)
+manuscript/
+*.tex
+
+# NCBI genome downloads (see README.md, upstream steps)
+genomic_data/
+
+# Figure rasters (PDFs are kept)
+*.tiff
+*.png
+
+# R and OS artifacts
+.Rhistory
+.RData
+.Rproj.user/
+.DS_Store
+Thumbs.db

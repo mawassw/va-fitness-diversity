@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the paper (preferred citation) and this repository."
+type: software
+title: "Code and data for: Heritable variance in fitness in wild vertebrates accounts for a small share of their missing neutral diversity and exceeds what recurrent mutation is estimated to maintain"
+authors:
+  - family-names: Mawass
+    given-names: Walid
+    affiliation: "Department of Human Genetics, University of Chicago"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+version: 1.0.0
+date-released: 2026-11-24
+license:
+  - MIT
+  - CC-BY-4.0
+repository-code: "https://github.com/mawassw/va-fitness-diversity"
+abstract: >-
+  R scripts and curated data that take the additive genetic variance in relative fitness
+  estimated by Bonnet et al. (2022) in 19 wild vertebrate pedigrees through two equilibrium
+  tests: how much neutral diversity that variance removes, relative to the diversity each
+  population is missing, and how much of it recurrent deleterious mutation can maintain at
+  mutation-selection-drift balance. The scripts reproduce every figure and table of the paper.
+keywords:
+  - additive genetic variance in fitness
+  - effective population size
+  - neutral diversity
+  - mutation-selection-drift balance
+  - linked selection
+  - wild vertebrate pedigrees
+preferred-citation:
+  type: article
+  title: "Heritable variance in fitness in wild vertebrates accounts for a small share of their missing neutral diversity and exceeds what recurrent mutation is estimated to maintain"
+  authors:
+    - family-names: Mawass
+      given-names: Walid
+      affiliation: "Department of Human Genetics, University of Chicago"
+  journal: bioRxiv
+  status: preprint
+  year: 2026
