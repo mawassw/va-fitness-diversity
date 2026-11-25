@@ -6,7 +6,7 @@ authors:
   - family-names: Mawass
     given-names: Walid
     affiliation: "Department of Human Genetics, University of Chicago"
-    # orcid: "https://orcid.org/0000-0000-0000-0000"
+    orcid: "https://orcid.org/0000-0002-6062-6027"
 version: 1.0.0
 date-released: 2026-11-24
 license:
@@ -33,6 +33,7 @@ preferred-citation:
     - family-names: Mawass
       given-names: Walid
       affiliation: "Department of Human Genetics, University of Chicago"
+      orcid: "https://orcid.org/0000-0002-6062-6027"
   journal: bioRxiv
   status: preprint
   year: 2026
